@@ -4,6 +4,7 @@ This is a simple command-line To-Do List application built using Python.
 It allows you to add, view, and remove tasks, with tasks stored permanently in a text file.
 
 📌 Features
+
 ✔ View Tasks
 
 Displays all the tasks saved in the to-do list.
@@ -64,10 +65,10 @@ When tasks are added or removed, the file updates automatically.
 
 ✔ Requirements 
 
-Use of lists for task management
+1. Use of lists for task management
 
-Implementation of add / remove / view functionality
+2. Implementation of add / remove / view functionality
 
-Use of open() for file handling
+3. Use of open() for file handling
 
-Persistent CLI to-do app
+4. Persistent CLI to-do app
